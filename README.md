@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Averi-Mae
 - 👀 I’m interested in anime, data science, my kitties, and software development
-- 🌱 I’m currently learning Java (1 year), Python, SQL, Data and Discrete Stuctures, & just lots of school in general
+- 🌱 I’m currently learning Java (1 year experience), Python, SQL, data structures, discrete stuctures, & just lots of school in general
 
 
 
